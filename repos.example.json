@@ -1,0 +1,23 @@
+{
+  "pollingInterval": "*/15 * * * *",
+  "repositories": [
+    { "owner": "jellyfin", "repo": "jellyfin" }
+  ],
+  "gitlabRepositories": [
+    { "owner": "DomiStyle", "repo": "jellysearch" }
+  ],
+  "dockerRepositories": [
+    { "owner": "domistyle", "repo": "jellysearch" }
+  ]
+}{
+  "pollingInterval": "*/15 * * * *",
+  "repositories": [
+    { "owner": "jellyfin", "repo": "jellyfin" }
+  ],
+  "gitlabRepositories": [
+    { "owner": "DomiStyle", "repo": "jellysearch" }
+  ],
+  "dockerRepositories": [
+    { "owner": "domistyle", "repo": "jellysearch" }
+  ]
+}

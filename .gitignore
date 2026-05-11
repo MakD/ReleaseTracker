@@ -1,0 +1,7 @@
+node_modules/
+dist/
+npm-debug.log
+.env
+bot-memory.db
+bot-data/
+.DS_Store

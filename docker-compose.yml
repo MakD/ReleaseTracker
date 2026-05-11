@@ -1,0 +1,10 @@
+services:
+  release-tracker:
+    build: .
+    container_name: discord-release-bot
+    restart: unless-stopped
+    volumes:
+      - ./bot-data:/app/data
+      - ./repos.json:/app/repos.json
+    env_file:
+      - .env
