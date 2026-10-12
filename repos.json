@@ -69,6 +69,8 @@
     { "owner": "lscambo13", "repo": "ElegantFin" },
     { "owner": "MakD", "repo": "AFinity" },
     { "owner": "MakD", "repo": "media-rpc" },
+    { "owner": "MakD", "repo": "zombie-release" },
+    { "owner": "MakD", "repo": "Jellyfin-Media-Bar" },
     { "owner": "Moonfin-Client", "repo": "AndroidTV-FireTV" },
     { "owner": "Moonfin-Client", "repo": "Mobile-Desktop" },
     { "owner": "Moonfin-Client", "repo": "tvOS" },
