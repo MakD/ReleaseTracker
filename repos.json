@@ -71,6 +71,7 @@
     { "owner": "MakD", "repo": "media-rpc" },
     { "owner": "MakD", "repo": "zombie-release" },
     { "owner": "MakD", "repo": "Jellyfin-Media-Bar" },
+    { "owner": "MakD", "repo": "jellyfin-btttrtags" },
     { "owner": "Moonfin-Client", "repo": "AndroidTV-FireTV" },
     { "owner": "Moonfin-Client", "repo": "Mobile-Desktop" },
     { "owner": "Moonfin-Client", "repo": "tvOS" },
